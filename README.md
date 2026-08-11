@@ -204,7 +204,7 @@ Sometimes we need to stop doing something entirely.
 
 This repository contains examples of how I approach marketing problems.
 
-### [How I Think](HOW-I-THINK.md)
+### [How I Think](How I Think About Marketing)
 
 My philosophy, frameworks, and approach to building marketing programs.
 
