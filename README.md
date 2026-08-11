@@ -319,9 +319,9 @@ If you're building something interesting and believe marketing should be a growt
 
 Atlanta, Georgia
 
-[LinkedIn](https://www.linkedin.com/)
+[LinkedIn](https://www.linkedin.com/in/zachpennington-creative/))
 
-[Email](mailto:YOUR-EMAIL-HERE)
+[Email](mailto:penningtonzach1@proton.me)
 
 ---
 
