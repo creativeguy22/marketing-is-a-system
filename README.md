@@ -305,7 +305,7 @@ I'm currently exploring opportunities in:
 * Field Marketing
 * Growth Marketing
 * GTM Strategy
-* Cybersecurity Marketing
+* Sales
 
 I'm particularly interested in companies building something technically differentiated that need marketing to help them **break through the noise and accelerate growth.**
 
@@ -319,9 +319,11 @@ If you're building something interesting and believe marketing should be a growt
 
 Atlanta, Georgia
 
-[LinkedIn](https://www.linkedin.com/in/zachpennington-creative/))
+([LinkedIn](https://www.linkedin.com/in/zachpennington-creative/))
 
-[Email](mailto:penningtonzach1@proton.me)
+([Email](mailto:penningtonzach1@proton.me))
+
+([Work Examples](mailto:penningtonzach1@proton.me))
 
 ---
 
