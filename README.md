@@ -208,39 +208,39 @@ This repository contains examples of how I approach marketing problems.
 
 My philosophy, frameworks, and approach to building marketing programs.
 
-### [[Go-To-Market Framework](https://github.com/creativeguy22/marketing-is-a-system/blob/b669f4ddb7c8257e687539e62889874938ad5d21/Go-To-Market%20Framework)
+### ([Go-To-Market Framework](https://github.com/creativeguy22/marketing-is-a-system/blob/b669f4ddb7c8257e687539e62889874938ad5d21/Go-To-Market%20Framework)
 
 How I approach taking a product from idea to market.
 
-### [[Product Marketing](https://github.com/creativeguy22/marketing-is-a-system/blob/b669f4ddb7c8257e687539e62889874938ad5d21/Product%20Marketing)
+### ([Product Marketing](https://github.com/creativeguy22/marketing-is-a-system/blob/b669f4ddb7c8257e687539e62889874938ad5d21/Product%20Marketing)
 
 How I approach positioning, messaging, launches, competitive intelligence, and enablement.
 
-### [[Demand Generation](https://github.com/creativeguy22/marketing-is-a-system/blob/b669f4ddb7c8257e687539e62889874938ad5d21/Demand%20Generation)
+### ([Demand Generation](https://github.com/creativeguy22/marketing-is-a-system/blob/b669f4ddb7c8257e687539e62889874938ad5d21/Demand%20Generation)
 
 How I think about building predictable pipeline.
 
-### [[ABM](https://github.com/creativeguy22/marketing-is-a-system/blob/b669f4ddb7c8257e687539e62889874938ad5d21/Account-Based%20Marketing)
+### ([ABM](https://github.com/creativeguy22/marketing-is-a-system/blob/b669f4ddb7c8257e687539e62889874938ad5d21/Account-Based%20Marketing)
 
 My framework for account-based marketing and revenue alignment.
 
-### [[Field Marketing](https://github.com/creativeguy22/marketing-is-a-system/blob/b669f4ddb7c8257e687539e62889874938ad5d21/Field%20Marketing)
+### ([Field Marketing](https://github.com/creativeguy22/marketing-is-a-system/blob/b669f4ddb7c8257e687539e62889874938ad5d21/Field%20Marketing)
 
 How I turn events into pipeline-generating programs.
 
-### [[Sales Enablement](https://github.com/creativeguy22/marketing-is-a-system/blob/b669f4ddb7c8257e687539e62889874938ad5d21/Sales%20Enablement)
+### ([Sales Enablement](https://github.com/creativeguy22/marketing-is-a-system/blob/b669f4ddb7c8257e687539e62889874938ad5d21/Sales%20Enablement)
 
 How marketing can make sales more effective.
 
-### [[Marketing Operating System](https://github.com/creativeguy22/marketing-is-a-system/blob/b669f4ddb7c8257e687539e62889874938ad5d21/Marketing%20Operations)
+### ([Marketing Operating System](https://github.com/creativeguy22/marketing-is-a-system/blob/b669f4ddb7c8257e687539e62889874938ad5d21/Marketing%20Operations)
 
 The systems, processes, reporting, and operating cadence I'd build inside a growing company.
 
-### [[30/60/90 Plan](https://github.com/creativeguy22/marketing-is-a-system/blob/b669f4ddb7c8257e687539e62889874938ad5d21/30-60-90)
+### ([30/60/90 Plan](https://github.com/creativeguy22/marketing-is-a-system/blob/b669f4ddb7c8257e687539e62889874938ad5d21/30-60-90)
 
 What I'd do if I joined a new company tomorrow.
 
-### [[Hire Me](https://github.com/creativeguy22/marketing-is-a-system/blob/b669f4ddb7c8257e687539e62889874938ad5d21/HIRE%20ME)
+### ([Hire Me](https://github.com/creativeguy22/marketing-is-a-system/blob/b669f4ddb7c8257e687539e62889874938ad5d21/HIRE%20ME)
 
 Why I believe I can create meaningful impact.
 
