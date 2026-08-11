@@ -204,43 +204,43 @@ Sometimes we need to stop doing something entirely.
 
 This repository contains examples of how I approach marketing problems.
 
-### ([How I Think About Marketing](https://github.com/creativeguy22/marketing-is-a-system/blob/b669f4ddb7c8257e687539e62889874938ad5d21/How%20I%20Think%20About%20Marketing))
+### ([How I Think About Marketing](https://github.com/creativeguy22/zach-pennington/blob/baf2087feb35e0cde57a24a124c3a66cbedaccb9/HOW-I-THINK.md))
 
 My philosophy, frameworks, and approach to building marketing programs.
 
-### ([Go-To-Market Framework](https://github.com/creativeguy22/marketing-is-a-system/blob/b669f4ddb7c8257e687539e62889874938ad5d21/Go-To-Market%20Framework))
+### ([Go-To-Market Framework](https://github.com/creativeguy22/zach-pennington/blob/baf2087feb35e0cde57a24a124c3a66cbedaccb9/GTM-FRAMEWORK.md))
 
 How I approach taking a product from idea to market.
 
-### ([Product Marketing](https://github.com/creativeguy22/marketing-is-a-system/blob/b669f4ddb7c8257e687539e62889874938ad5d21/Product%20Marketing))
+### ([Product Marketing](https://github.com/creativeguy22/zach-pennington/blob/baf2087feb35e0cde57a24a124c3a66cbedaccb9/PRODUCT-MARKETING.md))
 
 How I approach positioning, messaging, launches, competitive intelligence, and enablement.
 
-### ([Demand Generation](https://github.com/creativeguy22/marketing-is-a-system/blob/b669f4ddb7c8257e687539e62889874938ad5d21/Demand%20Generation))
+### ([Demand Generation](https://github.com/creativeguy22/zach-pennington/blob/baf2087feb35e0cde57a24a124c3a66cbedaccb9/DEMAND-GENERATION.md))
 
 How I think about building predictable pipeline.
 
-### ([ABM](https://github.com/creativeguy22/marketing-is-a-system/blob/b669f4ddb7c8257e687539e62889874938ad5d21/Account-Based%20Marketing))
+### ([ABM](https://github.com/creativeguy22/zach-pennington/blob/baf2087feb35e0cde57a24a124c3a66cbedaccb9/ABM.md))
 
 My framework for account-based marketing and revenue alignment.
 
-### ([Field Marketing](https://github.com/creativeguy22/marketing-is-a-system/blob/b669f4ddb7c8257e687539e62889874938ad5d21/Field%20Marketing))
+### ([Field Marketing](https://github.com/creativeguy22/zach-pennington/blob/baf2087feb35e0cde57a24a124c3a66cbedaccb9/FIELD-MARKETING.md))
 
 How I turn events into pipeline-generating programs.
 
-### ([Sales Enablement](https://github.com/creativeguy22/marketing-is-a-system/blob/b669f4ddb7c8257e687539e62889874938ad5d21/Sales%20Enablement))
+### ([Sales Enablement](https://github.com/creativeguy22/zach-pennington/blob/53cfbd0cf0047a50012027ea868122ecb977bfe4/SALES-ENABLEMENT.md))
 
 How marketing can make sales more effective.
 
-### ([Marketing Operating System](https://github.com/creativeguy22/marketing-is-a-system/blob/b669f4ddb7c8257e687539e62889874938ad5d21/Marketing%20Operations))
+### ([Marketing Operating System](https://github.com/creativeguy22/zach-pennington/blob/53cfbd0cf0047a50012027ea868122ecb977bfe4/MARKETING-OPERATING-SYSTEM.md))
 
 The systems, processes, reporting, and operating cadence I'd build inside a growing company.
 
-### ([30/60/90 Plan](https://github.com/creativeguy22/marketing-is-a-system/blob/b669f4ddb7c8257e687539e62889874938ad5d21/30-60-90))
+### ([30/60/90 Plan](https://github.com/creativeguy22/zach-pennington/blob/53cfbd0cf0047a50012027ea868122ecb977bfe4/30-60-90.md))
 
 What I'd do if I joined a new company tomorrow.
 
-### ([Hire Me](https://github.com/creativeguy22/marketing-is-a-system/blob/b669f4ddb7c8257e687539e62889874938ad5d21/HIRE%20ME)
+### ([Hire Me](https://github.com/creativeguy22/zach-pennington/blob/53cfbd0cf0047a50012027ea868122ecb977bfe4/HIRE-ME.md))
 
 Why I believe I can create meaningful impact.
 
