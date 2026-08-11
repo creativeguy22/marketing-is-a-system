@@ -323,7 +323,7 @@ Atlanta, Georgia
 
 ([Email](mailto:penningtonzach1@proton.me))
 
-([Work Examples](mailto:penningtonzach1@proton.me))
+([Work Examples](https://github.com/creativeguy22/zach-pennington/blob/aaf111d88d076dbba5b6d4b3465bc923e3cd29fa/WORK-EXAMPLES.md))
 
 ---
 
