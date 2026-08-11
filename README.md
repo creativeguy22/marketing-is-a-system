@@ -1,2 +1,2 @@
 # marketing-is-a-system
-Tool Sets for Marketing
+A living repository of frameworks, experiments, strategic thinking, and practical playbooks for building brands, creating demand, and turning marketing into a measurable growth engine.
