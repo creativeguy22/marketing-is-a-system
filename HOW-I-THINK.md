@@ -28,6 +28,8 @@ OPPORTUNITIES
 PIPELINE
    ↓
 REVENUE
+   ↓
+EXPANSION
 ```
 
 If something isn't working, I want to understand where the system is breaking.
